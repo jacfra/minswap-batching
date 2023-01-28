@@ -1,6 +1,7 @@
 # minswap-batching
 
-What are the valid responses laminar could batch transactions?
+What are all the possible different outcomes of transaction flow coming to and
+from minswap with laminar?
 
 i.e.
 
@@ -33,4 +34,4 @@ block 2: receive_b_tx
 block 3: receive_a_tx
 ```
 
-the **test** dir contains tests of these cases
+the \_\_test\_\_ dir contains tests of these cases
